@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andris9/smtp-connection.git"
+    "url": "git://github.com/ratriches/smtp-connection.git"
   },
   "keywords": [
     "SMTP"
